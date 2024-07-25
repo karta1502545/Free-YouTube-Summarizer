@@ -1,0 +1,4 @@
+*.mp3
+/whisper_env/
+/unused/
+api-key.txt
