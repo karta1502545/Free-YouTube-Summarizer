@@ -61,52 +61,6 @@ Summarize YouTube videos (or any audio files you have) using Python.
 
 ### 4. Get Summary from ChatGPT
 
-1. Upload the `subtitle.txt` file to ChatGPT.
-
-2. Use the generated prompt to get the summary.
-
-## Example
-
-### Download Audio from YouTube
-
-1. Specify the YouTube link in `mp3downloader.py`:
-
-    ```python
-    youtube_link = "https://www.youtube.com/watch?v=example"
-    ```
-
-2. Run `mp3downloader.py`:
-
-    ```bash
-    python mp3downloader.py
-    ```
-
-### Transcribe Audio
-
-1. Specify your API key in `whisper_groq.py`:
-
-    ```python
-    api_key = "your_groq_api_key"
-    ```
-
-2. Run `whisper_groq.py`:
-
-    ```bash
-    python whisper_groq.py
-    ```
-
-### Create Prompt
-
-1. Customize the template in `create_prompt.py` if needed.
-
-2. Run `create_prompt.py`:
-
-    ```bash
-    python create_prompt.py
-    ```
-
-### Get Summary
-
 1. Upload the `subtitle.txt` file to [ChatGPT](https://chatgpt.com/).
 
 2. Use the generated prompt to get the summary.
