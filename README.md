@@ -1,4 +1,4 @@
-# free-YouTube-summarizer
+# Free-YouTube-Summarizer
 
 Summarize YouTube videos (or any audio files you have) using Python.
 
